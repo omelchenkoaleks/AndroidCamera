@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Camera Android</string>
 
-    <string name="makeFhoto">take a photo</string>
+    <string name="makePhoto">take a photo</string>
 </resources>
