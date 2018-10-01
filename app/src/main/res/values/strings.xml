@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Camera Android</string>
+
+    <string name="makeFhoto">take a photo</string>
 </resources>
